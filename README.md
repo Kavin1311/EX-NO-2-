@@ -212,6 +212,7 @@ int main()
 
 
 
-Output:
+# Output:
+
 ![image](https://github.com/user-attachments/assets/54297200-35f8-4c4c-8b29-cae0463f4440)
 
